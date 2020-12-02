@@ -1,6 +1,6 @@
 <h3>Whats up? 👋</h3>
  King of the Herself, Protector of the Bracket, the Father of semicolon, the Great Creator, the Frontend-er.
- And he is try to build hers freedom agains the system.
+ And he is try to build self freedom agains the system.
 
 <img align="right" src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="260">
 
