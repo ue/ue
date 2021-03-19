@@ -5,7 +5,6 @@
 <img align="right" src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="260">
 
 ![Stats](https://github-readme-stats.vercel.app/api/?username=ue&show_icons=true&include_all_commits=true&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ue&layout=compact)
 
 #### 😎  My latest projects
 - [AppDigger.co](https://www.appdigger.co/)
